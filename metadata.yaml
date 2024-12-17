@@ -1,0 +1,40 @@
+_repo: Aristoteles-Zielkunde_74894
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Fraenkel, J. M.
+    gutenberg_agent_id: '57711'
+    url: http://www.gutenberg.org/2009/agents/57711
+creator:
+  author:
+    agent_name: Valaorites, Aristoteles
+    aliases:
+    - Βαλαωρίτης, Αριστοτέλης
+    - Valaoritis, Aristotelis
+    - Balaorites, Aristoteles
+    birthdate: 1824
+    deathdate: 1879
+    gutenberg_agent_id: '36076'
+    url: http://www.gutenberg.org/2009/agents/36076
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82_%CE%92%CE%B1%CE%BB%CE%B1%CF%89%CF%81%CE%AF%CF%84%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74894'
+language: nl
+pgterms:marc904: https://www.delpher.nl/nl/boeken/view?coll=boeken&identifier=MMKB24:066182000
+pgterms:marc905: 20221014121010aristotele
+pgterms:marc906: '1919'
+pgterms:marc907: NL
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net/
+  for Project Gutenberg (from scans kindly made available by the Koninklijke Bibliotheek,
+  The Hague)
+publication_note: '  $aGroningen :$bJ. B. Wolters, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Aristoteles' Zielkunde
+url: http://www.gutenberg.org/ebooks/74894
